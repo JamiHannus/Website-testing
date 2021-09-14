@@ -5,8 +5,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/t9haja00/Website-testing"
-  }
-}
+  },
   "scripts": {
     "test1": "node tests/test1.js",
     "test2": "node tests/test2.js",
