@@ -2,7 +2,11 @@
   "name": "website-testing",
   "version": "1.0.0",
   "description": "Few small test for a webiste",
-  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t9haja00/Website-testing"
+  }
+}
   "scripts": {
     "test1": "node tests/test1.js",
     "test2": "node tests/test2.js",
