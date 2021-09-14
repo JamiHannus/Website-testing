@@ -1,0 +1,22 @@
+{
+  "name": "website-testing",
+  "version": "1.0.0",
+  "description": "Few small test for a webiste",
+  "main": "index.js",
+  "scripts": {
+    "test1": "node tests/test1.js",
+    "test2": "node tests/test2.js",
+    "test3": "node tests/test3.js",
+    "test4": "node tests/test4.js",
+    "test5": "node tests/test5.js"
+  },
+  "keywords": [
+    "testing",
+    "basic"
+  ],
+  "author": "Jami Hannus",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-rc-1"
+  }
+}
